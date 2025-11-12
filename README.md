@@ -23,7 +23,7 @@ _Create *workflows* that enable you to use Continuous Integration (CI) for your 
 
 _Almost there! :heart:_
 
-You can *now* [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
+You _can_ *now* [merge](https://docs.github.com/get-started/quickstart/github-glossary#merge) your pull request!
 
 ### :keyboard: Activity: Merge your pull request
 
